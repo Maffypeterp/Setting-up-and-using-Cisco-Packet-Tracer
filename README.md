@@ -59,4 +59,5 @@ Click on each PC to access the settings and assign IP addresses for PC's, naviga
 
 Right click on the PC and click on the Command prompt on any PC and use the ping command to test connectivity. If the ping is successful, the network is configured correctly.
 
-## Ref 3. [Configuring network](Link)
+## Ref 5. Configuring Network
+<img width="548" height="432" alt="Image" src="https://github.com/user-attachments/assets/2a1d9d99-6468-4699-bbfc-f9edaac10861" />
