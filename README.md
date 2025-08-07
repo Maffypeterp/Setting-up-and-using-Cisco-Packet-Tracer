@@ -47,7 +47,8 @@ In the workspace, drag routers, switches, and two PC's from the device selection
 
 Used the connection tool(represented by a cable icon) to connect the devices together with appropriate cables(eg: copper straight-through for PC to switch) and connecting a switch and two PC's together. 
  
-## Ref 2. [Connecting device](Link)
+## Ref 2. Connecting device
+<img width="1126" height="755" alt="Image" src="https://github.com/user-attachments/assets/d77a984d-2a2d-4483-8362-513da87e9c17" />
 
 ### 4. Configure device IP's
 
