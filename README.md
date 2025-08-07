@@ -16,9 +16,9 @@ Cisco Packet Tracer is a visual, interactive network simulation tool used for bu
 
 ### Tools Used
 
-***  Network devices: routers, switches, hubs, wireless access points
-***  End devices: PCs, laptops, servers, and IP phones
-***  Cabling tools: copper, fiber, or wireless media
+***  Software:   Cisco Packet Tracer 
+***  Devices in Simulation: PC, routers, switches, hubs, wireless router, server
+***  Connections: Copper straight-through, crossover cables, wireless
 ***  Configurations tools: Command Line Interface and graphical settings to configure device
 
 
