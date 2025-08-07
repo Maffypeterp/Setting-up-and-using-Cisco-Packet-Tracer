@@ -54,6 +54,8 @@ Used the connection tool(represented by a cable icon) to connect the devices tog
 
 Click on each PC to access the settings and assign IP addresses for PC's, navigate to the Desktop tab and click IP configuration to assign an IP address and subnet mask. Ensure all devices are on the same network by configuring IPs within the same subnet. 192.168.1.2 for PC1, 192.168.1.3 for PC2
 
+## Ref 4. Assigning IP configuration
+
 ### 5. Test the Network
 
 5.1 Use the ping tool:
