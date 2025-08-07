@@ -63,3 +63,7 @@ Right click on the PC and click on the Command prompt on any PC and use the ping
 
 ## Ref 3. Configuring Network
 <img width="548" height="432" alt="Image" src="https://github.com/user-attachments/assets/2a1d9d99-6468-4699-bbfc-f9edaac10861" />
+
+### 6. Conclusion
+
+Through this project, users were able to gain a strong practical foundation in networking by actively engaging with Cisco Packet Tracer. The interactive nature of Cisco Packet Tracer allowed users to visualize how data moves across a network and observe the behavior of various protocols in real time. This was especially useful in understanding how different components work together within a network and how misconfigurations or errors can impact performance. Whether configuring a simple LAN or analyzing packet flow using simulation tools, users developed confidence in their ability to plan, deploy, and manage networks. 
