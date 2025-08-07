@@ -41,20 +41,19 @@ Open the Cisco packet tracer. locate the application on your computer and open i
 
 In the workspace, drag routers, switches, and two PC's from the device selection menu at the bottom of the right page.
 
-## Ref 1. [Setting a network](Link)
-
 3.2 Connect the device
 
 Used the connection tool(represented by a cable icon) to connect the devices together with appropriate cables(eg: copper straight-through for PC to switch) and connecting a switch and two PC's together. 
  
-## Ref 2. Connecting device
+## Ref 1. Connecting device
 <img width="1126" height="755" alt="Image" src="https://github.com/user-attachments/assets/d77a984d-2a2d-4483-8362-513da87e9c17" />
 
 ### 4. Configure device IP's
 
 Click on each PC to access the settings and assign IP addresses for PC's, navigate to the Desktop tab and click IP configuration to assign an IP address and subnet mask. Ensure all devices are on the same network by configuring IPs within the same subnet. 192.168.1.2 for PC1, 192.168.1.3 for PC2
 
-## Ref 4. Assigning IP configuration
+## Ref 2. Assigning IP configuration
+<img width="825" height="500" alt="Image" src="https://github.com/user-attachments/assets/99635998-8d97-4744-a6c4-c9deaf8aaef5" />
 
 ### 5. Test the Network
 
@@ -62,5 +61,5 @@ Click on each PC to access the settings and assign IP addresses for PC's, naviga
 
 Right click on the PC and click on the Command prompt on any PC and use the ping command to test connectivity. If the ping is successful, the network is configured correctly.
 
-## Ref 5. Configuring Network
+## Ref 3. Configuring Network
 <img width="548" height="432" alt="Image" src="https://github.com/user-attachments/assets/2a1d9d99-6468-4699-bbfc-f9edaac10861" />
